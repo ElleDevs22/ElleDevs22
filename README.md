@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ElleDevs22
-- 👀 I’m interested in learning Web Development 
+- 👀 I’m interested in learning to code 
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on something fun and bright
 - 📫 How to reach me : elle.webdevcoding@gmail.com
